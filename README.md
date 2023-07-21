@@ -8,3 +8,4 @@ This project is aimed to run most blockchain nodes on container images and the i
 ## Available BlokNode Variants
 
 - [Bitcoin](https://github.com/bloknodes/bitcoin)
+- [Litecoin](https://github.com/bloknodes/litecoin)
